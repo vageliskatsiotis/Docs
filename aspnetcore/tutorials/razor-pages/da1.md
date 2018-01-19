@@ -2,6 +2,7 @@
 title: Updating the generated pages
 author: rick-anderson
 description: Updating the generated pages with better display.
+keywords: ASP.NET Core,Razor Pages
 ms.author: riande
 manager: wpickett
 ms.date: 08/07/2017

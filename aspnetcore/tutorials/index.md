@@ -2,6 +2,7 @@
 title: ASP.NET Core tutorials
 author: rick-anderson
 description: A list of step-by-step guides for learning how to develop ASP.NET Core applications.
+keywords: ASP.NET Core,
 ms.author: riande
 manager: wpickett
 ms.date: 10/14/2017
