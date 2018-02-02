@@ -61,7 +61,7 @@ You need an Azure account to deploy this solution to Azure. If you do not alread
 
 Open Visual Studio. From the **File** menu, select **New**, then select **Project**. (Or click **New Project** on the Start page.)
 
-In the **New Project** dialog, click **Web** in the left pane and **ASP.NET Web Application** in the middle pane. Name the project BookService and click **OK**.
+In the **New Project** dialog, click **Web** in the left panel and **ASP.NET Web Application** in the middle panel. Name the project BookService and click **OK**.
 
 [![](part-1/_static/image4.png)](part-1/_static/image3.png)
 
